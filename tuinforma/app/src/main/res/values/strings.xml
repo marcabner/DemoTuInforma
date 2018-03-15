@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TuInforma</string>
+
+    <string name="Portada">Portada</string>
+    <string name="Panorama">Panorama</string>
+    <string name="Recomendados">Recomendados</string>
+    <string name="Debate">Debate</string>
+    <string name="Videos">Videos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
